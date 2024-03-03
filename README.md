@@ -1,5 +1,5 @@
-# snake
-
+# SnakeNLeadders
+un saludo a las cuatro letras [koalas][https://www.youtube.com/watch?v=OHGfLoBv9uc]
 ## Project setup
 ```
 npm install
@@ -22,5 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# SnakeNLeadders
-# SnakeNLeadders
+
