@@ -1,5 +1,5 @@
 # SnakeNLeadders
-un saludo a las cuatro letras [koalas][https://www.youtube.com/watch?v=OHGfLoBv9uc]
+un saludo a las cuatro letras [koalas](https://www.youtube.com/watch?v=OHGfLoBv9uc)
 ## Project setup
 ```
 npm install
